@@ -1,0 +1,20 @@
+{
+  "name": "simpleBlog",
+  "version": "1.0.0",
+  "description": "this is a simple blog with Backbone.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "3.x.x",
+    "ejs": "~0.8.4",
+    "bourne": "0.3"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  },
+  "author": "tony brown",
+  "license": "MIT"
+}
