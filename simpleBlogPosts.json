@@ -1,1 +1,14 @@
-[  {    "id": 1,    "pubDate": "2013-11-13T19:42:46.755Z",    "title": "Jacobs Post",    "content": "<p>Today is my Birthday!</p> <p>Happy Birthday to my youngest son.</p>"  }]
+[
+  {
+    "id": 1,
+    "pubDate": "2013-11-13T19:42:46.755Z",
+    "title": "First Post",
+    "content": "<p>Today is my Birthday!</p> <p>Happy Birthday to my youngest son.</p>"
+  },
+  {
+    "id": 2,
+    "pubDate": "2014-07-06T18:25:43.511Z",
+    "title": "Second Post",
+    "content": "<p>Nice July day with me my boys.</p><p>Worshiping with Brother Curry.</p>"
+  }
+]
